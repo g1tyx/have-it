@@ -85,7 +85,7 @@ var cnItems = {
     "Reset game": "硬重置",
     "Right-click/long-tap to load without adding offline time.": "右键单击/长按加载而不添加离线时间。",
     "Save >>": "保存 >>",
-    "": "",
+    "Repeatable\n\nCan be bought multiple times": "可重复\n\n可以多次购买",
     "": "",
     "": "",
     "": "",
